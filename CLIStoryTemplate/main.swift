@@ -5,12 +5,14 @@
 
 import Foundation
 
+
 func readStory() {
+    chapterFive()
     chapterOne()
     chapterTwo()
     chapterThree()
     chapterFour()
-    chapterFive()
+  
 }
 
 readStory()
